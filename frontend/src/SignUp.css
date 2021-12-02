@@ -1,0 +1,10 @@
+.signup {
+  background-color: rgb(176, 187, 173);
+  flex: 2;
+  border-bottom-left-radius: 5%;
+  border-top-left-radius: 5%;
+}
+.signup:hover {
+  background-color: rgb(86, 87, 86);
+  transition: 500ms;
+}

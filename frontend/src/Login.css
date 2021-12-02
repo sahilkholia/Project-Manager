@@ -1,0 +1,10 @@
+.login {
+  background-color: rgb(176, 187, 173);
+  flex: 1;
+  border-bottom-right-radius: 5%;
+  border-top-right-radius: 5%;
+}
+.login:hover {
+  background-color: rgb(86, 87, 86);
+  transition: 500ms;
+}

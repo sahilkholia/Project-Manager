@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.credBody {
+  display: flex;
+  margin-left: 10%;
+  margin-top: 1%;
+  width: 80%;
+  height: 85vh;
+}
